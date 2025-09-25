@@ -13,7 +13,7 @@ It maintains full audit logs for traceability and provides a clean GUI for effic
 
 ## Features
 
-1. **Metadata-driven organization**: Automatically sort media into folders by date, location, or device.  
+1. **Metadata-driven organization**: Automatically sort media into folders by date.  
 2. **Date-range filtering & session tracking**: Transfer files selectively and keep track of each session.  
 3. **Audit & logging**: Maintain structured JSON logs and log files for full traceability.  
 4. **User-friendly GUI**: Tkinter interface for transferring, deleting, and viewing logs.  
